@@ -1,7 +1,6 @@
 package Array;
 
 import java.util.Arrays;
-
 import java.lang.ArrayIndexOutOfBoundsException;
 public class BMinMax {
 	static class Pair{
@@ -38,6 +37,7 @@ public static void main(String[] args) {
 	int n=arr.length;
 	int n2=arr2.length;
 	System.out.println(getMinMax(arr, n).max + " " +getMinMax(arr, n).min);
-	
+System.out.println("Going strong");
+
 }
 }
