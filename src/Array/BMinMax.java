@@ -1,12 +1,15 @@
 package Array;
 
+import java.util.Arrays;
+
+import java.lang.ArrayIndexOutOfBoundsException;
 public class BMinMax {
 	static class Pair{
 		int min;
 		int max;
 	}
 	static Pair getMinMax(int arr[],int n) {
-		
+
 		Pair minmax = new Pair();
 		minmax.max=0;
 		minmax.min=arr[1];
