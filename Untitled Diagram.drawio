@@ -1,1 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T08:21:43.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="yaCLtyM7te1t85Wm5xZK" version="20.0.3" type="github"><diagram id="tz5aEMEXXIkRG44pQRjg" name="Page-1">7VvbcuI4EP0aHofy3eYx5DKprSSVmkztzD5Rwm4bJbbllQWB+fqVbBkw8oXJhFxYqAqxWrYl9TndpzFiYJ4ny68UZbNbEkA8MLRgOTAvBobhegZ/F4ZVabBcrzREFAelSd8YHvAvkEZNWuc4gLx2IiMkZjirG32SpuCzmg1RSp7rp4Ukro+aoQgUw4OPYtX6AwdsVlo9w93YrwFHs2pk3RmVPQmqTpYryWcoIM9bJvNyYJ5TQlh5lCzPIRa+q/xSXnfV0rueGIWU7XMBxuyr/bcb/HV3Fz/ORre3P63rL5ac7QLFc7liOVu2qlwAAfeIbBLKZiQiKYovN9YxJfM0ADGOxlubc24IybhR58ZHYGwl4UVzRrhpxpJY9oYkZbJT544Zl3MQA7cuVppyMqc+dKxQrochGgHrOM9015hwLgNJgNEVv5BCjBhe1CeCJKui9Xkbx/MD6fvfwMFQYLjFPiU50AX2Of8N7Yz6M8w4xecUFIjyZ5zEKBVYxGgK8Rj5T1GByjmJCeUnpaToDXEcV6aBYQY2eIHF7Tmj5Am2ejxjajpO0YNohY2lrbFZAGWw7EZHdaa8wJIhsao3nzcB5jrSNtsKLrMKpVd3v6m4/4wx5M8SsSBDeyhh6Hc7oQHQyosBhGge87mPA5TPivDQGyBA4IV+EwSO78E0bI2OHgTaadYKi1uHxVNh0Ztg8TpQkWN947xFacT9th7M7uVA42DmzmAoZkBTxGAs2J4rTFiv8uXksLrJMTCcAuQp5UeRONoOXYUzW1kvoCT7XuUlbZcnonGPmFheYTG0BvaEYWj4jewJnKljO3/EFrOTLbpdA9BsANBsANA6VAzb/UqWPwHzZ5VMzVmMU+6yqnDQZKip8RtRFGDY9DQnU614KVi0pAEBCOZ1xo1IHPckxwwTAfSUMEaSrRPOYhyJDia0dIxky+fTAdqtokVbrl7MC+VZudIQL8U8xhnB4i6XC36zXN6ElymZuCBZRqKgG6Ln3BqCb0z4wSTZYvYElowinxE6CflfKlhcDHmFEhwLVlxDvACxhj9iodXNQoV1RgPpKtveYi7HuxcO2gz2pSr7JOfd+g1IGObcCwdIQbpaH/yA6QPxn8R42h1hOOR+Lij0TiJ1KFGyzbpQGNpBZcmoj9aU1T6ILOlq0bLFiWPVJL2bLR9OlE6qdJyq1MfD3Tzi/ZZOvToPdZWHlwnC8ZGLh3vSjmY6OG10OFrdsD+XbqjiftKNo9CNHh7u5pDR++qG+nj4LMso4e33fyx2KNHY/cRx2Odgn0g0tA4yHKtujD6XbKjPCU6ycQyy0UPDD/ZpQ60ub0iE0+OVDFOzh4ZzUo0Gx7mtXDhe0XA+l2joJ9E4StHooaHuDV1L27z0D6Uhhpo4biFCt5DO/z8icnpgVXnOa2XD8cqI0bIl6aPqiLpR4qQjx6AjfTz82EJimgoL32BHI/coXf0U1w/tqvmPvF3RuFjWWivZKuf6KjsfTamg/VsfvWZ832bro2mf8OnGx9LeFR+1EHvgKWc1JuSJmy+IPxc74Zq/P1QTHlDM5yUS5wUfHGc53G9M2wgpeXa9gbom1UW6z5CP0+h7gb3JDTgptnVX/y9wEvG1x3jK33nC5D6bBJiCSJ3cQVcRpHwO/iQlAQzzRdSq/p1lZbNc7JV2u7fLmtWe8mqvZNNmSY0TWVfT6sgb2ocihlqTPWSU4zAVe9oN7Z6SRwG+UQnCC0p1hQQ7ig96YIPbVH+NHNdEe9df3QDoO98IOLoKAIdF9b6uH0zV1G9mvkHIXSR+H1Hkhn/nnOFB73MWsbf8G2Si/CFyXttAcaexnrjc5X2Cg6BM0pDjX2i6rn6KYqdwhD0e2BfiXjwv57Je6iyi28rulxc1baJXxZxRD7k9PxodrLiubtwfbA1F957B9i6xZbnWHrHlvGVsWeoDsZbYOgXW/tVKFVj60LBHWy/vrQKNNze/tiofTGx+smZe/gc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-27T08:29:49.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="SJ5Dd9DlgCH5AoQ0rACK" version="20.0.3" type="github">
+  <diagram id="tz5aEMEXXIkRG44pQRjg" name="Page-1">
+    <mxGraphModel dx="1117" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iitG5V7dJNNljh9MMX4H-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="1" source="iitG5V7dJNNljh9MMX4H-2" target="iitG5V7dJNNljh9MMX4H-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-2" value="Microservices Architecture" style="swimlane;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;startSize=40;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="760" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-3" value="Attachment Service" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" parent="iitG5V7dJNNljh9MMX4H-2" vertex="1">
+          <mxGeometry x="70" y="80" width="160" height="80" as="geometry">
+            <mxRectangle x="50" y="40" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-4" value="Attachment &lt;br&gt;Microservice" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="iitG5V7dJNNljh9MMX4H-3" vertex="1">
+          <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-5" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#000000;strokeColor=default;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;fontFamily=Helvetica;" parent="iitG5V7dJNNljh9MMX4H-4" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-12" value="WebSocket Notification" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iitG5V7dJNNljh9MMX4H-2" vertex="1">
+          <mxGeometry x="530" y="200" width="160" height="80" as="geometry">
+            <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-13" value="Notification&lt;br&gt;Microservice" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="iitG5V7dJNNljh9MMX4H-12" vertex="1">
+          <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-55" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#000000;strokeColor=default;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;fontFamily=Helvetica;" parent="iitG5V7dJNNljh9MMX4H-12" vertex="1">
+          <mxGeometry x="120" y="38" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-15" value="Email Notification" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iitG5V7dJNNljh9MMX4H-2" vertex="1">
+          <mxGeometry x="70" y="200" width="160" height="80" as="geometry">
+            <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-16" value="Notification&lt;br&gt;Microservice" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="iitG5V7dJNNljh9MMX4H-15" vertex="1">
+          <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-53" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#000000;strokeColor=default;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;fontFamily=Helvetica;" parent="iitG5V7dJNNljh9MMX4H-15" vertex="1">
+          <mxGeometry x="120" y="39" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-9" value="Approval Service" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iitG5V7dJNNljh9MMX4H-2" vertex="1">
+          <mxGeometry x="530" y="80" width="160" height="80" as="geometry">
+            <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-10" value="Approval&lt;br&gt;Microservice" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="iitG5V7dJNNljh9MMX4H-9" vertex="1">
+          <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-52" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#000000;strokeColor=default;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;fontFamily=Helvetica;" parent="iitG5V7dJNNljh9MMX4H-9" vertex="1">
+          <mxGeometry x="120" y="38" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-6" value="Login Service" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iitG5V7dJNNljh9MMX4H-2" vertex="1">
+          <mxGeometry x="305.26" y="80" width="160" height="80" as="geometry">
+            <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-7" value="Login &lt;br&gt;Microservice" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="iitG5V7dJNNljh9MMX4H-6" vertex="1">
+          <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-51" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#000000;strokeColor=default;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;fontFamily=Helvetica;" parent="iitG5V7dJNNljh9MMX4H-6" vertex="1">
+          <mxGeometry x="118.74000000000001" y="38" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-27" value="MegaMenuService" style="swimlane;labelBorderColor=default;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="iitG5V7dJNNljh9MMX4H-2" vertex="1">
+          <mxGeometry x="305.26" y="200" width="160" height="80" as="geometry">
+            <mxRectangle x="20" y="30" width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-28" value="MegaMenu&lt;br&gt;Microservice" style="html=1;dropTarget=0;dashed=1;dashPattern=1 1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="iitG5V7dJNNljh9MMX4H-27" vertex="1">
+          <mxGeometry x="15" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-54" value="" style="sketch=0;outlineConnect=0;fontColor=default;gradientColor=none;fillColor=#000000;strokeColor=default;dashed=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.ec2_aws_microservice_extractor_for_net;fontFamily=Helvetica;" parent="iitG5V7dJNNljh9MMX4H-27" vertex="1">
+          <mxGeometry x="118.74000000000001" y="38" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iitG5V7dJNNljh9MMX4H-37" target="iitG5V7dJNNljh9MMX4H-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="iitG5V7dJNNljh9MMX4H-37" target="iitG5V7dJNNljh9MMX4H-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-37" value="StoryBook Documentation" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;dashPattern=1 1;labelBorderColor=default;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="369" y="440" width="100.51" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-38" value="Springboot Project 1" style="swimlane;labelBorderColor=default;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="130" y="610" width="224" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-39" value="Refer to required &lt;br&gt;Microservices Repository" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="iitG5V7dJNNljh9MMX4H-38" vertex="1">
+          <mxGeometry x="32" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-40" value="Springboot Project 2" style="swimlane;labelBorderColor=default;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="474" y="610" width="226" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iitG5V7dJNNljh9MMX4H-41" value="Refer to required&lt;br&gt;Microservices Repository" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="iitG5V7dJNNljh9MMX4H-40" vertex="1">
+          <mxGeometry x="31.259999999999998" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
